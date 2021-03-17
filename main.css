@@ -102,3 +102,12 @@ p {
 li {
   padding-bottom: 1%;
 }
+
+.info {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  border-radius: 80px;
+}
